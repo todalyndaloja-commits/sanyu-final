@@ -2,7 +2,7 @@
 
 ## Project info
 
-**Test URL**:[https://preview.sanyu/](https://github.com/todalyndaloja-commits/sanyu-final.git)
+**Test URL**:[https://preview.sanyu/](https://preview--sanyu-china-to-brazil.lovable.app/)
 
 ## requirement
 The only requirement is having *Node.js* & *npm installed* - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
@@ -12,7 +12,7 @@ If you have already installed it, follow these steps:
 
 # Step 1: Clone the repository using the project's Git URL.
 ```sh 
-git clone https://github.com/todalyndaloja-commits/sanyu.git
+git clone https://github.com/todalyndaloja-commits/sanyu-final.git
 ```
 # Step 2: Navigate to the project directory.
 ```sh
